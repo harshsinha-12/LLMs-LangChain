@@ -1,0 +1,5 @@
+streamlit==1.27.2
+langchain==0.0.284
+OpenAI == 0.28.0
+chromadb == 0.4.0
+tiktoken==0.4.0
